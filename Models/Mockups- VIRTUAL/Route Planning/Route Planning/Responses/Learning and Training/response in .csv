@@ -1,0 +1,6 @@
+Participation ID- ,
+Point 2 -12 Junction,Point 3 -8 Junction,Point 4 -6 Junction
+Phase,trial,maze type,maze color,Hit,status in,Time in
+Training,1,8 junction,grey,0,Inside D1,2.9415772999999996
+Training,1,8 junction,grey,0,Inside D2,6.969783499999999
+Training,1,8 junction,grey,1,Collided with H3,,,N/A

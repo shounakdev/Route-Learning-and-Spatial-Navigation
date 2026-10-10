@@ -1,0 +1,21 @@
+Participation ID- ,1
+Point 2 -12 Junction,Point 3 -8 Junction,Point 4 -6 Junction
+Phase,trial,maze type,maze color,Hit,status in,Time in
+testing,36,6 junction,green,0,Inside D1,2.649574
+testing,36,6 junction,green,0,Inside D2,7.6287685000000005
+testing,36,6 junction,green,0,Inside D3,12.467811399999999
+testing,36,6 junction,green,0,Inside D4,19.7589314
+testing,36,6 junction,green,0,Inside D5,23.582888
+testing,36,6 junction,green,0,Inside Point 4,28.381471
+testing,37,6 junction,neutral,0,Inside D1,29.8617091
+testing,37,6 junction,neutral,0,Inside D2,34.3027787
+testing,37,6 junction,neutral,0,Inside D3,38.2509375
+testing,37,6 junction,neutral,0,Inside D4,44.7922641
+testing,37,6 junction,neutral,0,Inside D5,50.498424299999996
+testing,37,6 junction,neutral,0,Inside Point 4,55.4903487
+testing,38,6 junction,neutral,0,Inside D1,57.0710638
+testing,38,6 junction,neutral,0,Inside D2,61.6005949
+testing,38,6 junction,neutral,0,Inside D3,65.6265669
+testing,38,6 junction,neutral,0,Inside D4,71.5828422
+testing,38,6 junction,neutral,0,Inside D5,75.29423680000001
+testing,38,6 junction,neutral,1,Collided with H7,,,N/A
